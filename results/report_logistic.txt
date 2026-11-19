@@ -1,0 +1,10 @@
+               precision    recall  f1-score   support
+
+      Nucleus       0.67      0.63      0.65       147
+    Cytoplasm       0.58      0.62      0.60       150
+     Membrane       0.94      0.80      0.87       233
+Extracellular       0.53      0.93      0.67        45
+
+     accuracy                           0.72       575
+    macro avg       0.68      0.75      0.70       575
+ weighted avg       0.75      0.72      0.73       575

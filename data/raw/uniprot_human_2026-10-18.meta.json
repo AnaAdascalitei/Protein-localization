@@ -1,0 +1,19 @@
+{
+  "downloaded": "2026-10-18T22:49:48",
+  "source": "https://rest.uniprot.org/uniprotkb/search",
+  "query": "reviewed:true AND organism_id:9606",
+  "fields": [
+    "accession",
+    "id",
+    "protein_name",
+    "gene_primary",
+    "length",
+    "sequence",
+    "cc_subcellular_location",
+    "annotation_score"
+  ],
+  "uniprot_release": "2026_03",
+  "total_results": 20431,
+  "rows_written": 20431,
+  "file": "uniprot_human_2026-10-18.tsv"
+}
